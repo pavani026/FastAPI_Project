@@ -4,7 +4,7 @@
 
 ## 📖 Project Overview
 
-QuickBite is a backend REST API for a food delivery platform built with **FastAPI** and **Python**. It handles everything from browsing the menu to placing orders and checking out a cart — all testable through Swagger UI.
+QuickBite is a backend REST API for a food delivery platform built with **FastAPI** and **Python**. It handles everything from browsing the menu to placing orders and checking out a cart all testable through Swagger UI.
 
 This project was built as a final project for a FastAPI internship program, covering 6 days of concepts including GET/POST routes, Pydantic validation, CRUD operations, cart workflows, and advanced search/sort/pagination.
 
