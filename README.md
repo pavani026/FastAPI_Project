@@ -123,7 +123,7 @@ fastapi-food-delivery/
 
 ## 📸 Screenshots
 
-All API outputs tested in Swagger UI are available in the `screenshots/` folder.
+All API outputs tested in Swagger UI are available in the `Output_Screenshot` folder.
 
 ---
 
@@ -140,4 +140,4 @@ All API outputs tested in Swagger UI are available in the `screenshots/` folder.
 
 ## 👨‍💻 Author
 
-**Your Name** — Internship Final Project
+**Your Name** — Korivi Pavani
